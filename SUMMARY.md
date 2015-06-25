@@ -8,4 +8,4 @@
 
 
 * [MTSA首頁](http://www.umich.edu/~mtsa/)
-* Testing merge >>> auto merge? <<<
+* Testing merge might became auto merge?
